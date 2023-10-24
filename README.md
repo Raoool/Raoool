@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 - Passionate about harnessing the power of technology to drive positive change
 
-Passionate about harnessing the power of technology to drive positive change, I am Rahul Kumar Shah, a dedicated Electrical/Image Processing Engineer with a strong background in developing and applying innovative algorithms for generating and processing digital images. With four years of professional experience under my belt, I am committed to contributing my technical expertise to cutting-edge projects in the realm of image processing.
+I am Rahul Shah, a dedicated Electrical/Image Processing Engineer with a strong background in developing and applying innovative algorithms for generating and processing digital images. With four years of professional experience under my belt, I am committed to contributing my technical expertise to cutting-edge projects in the realm of image processing.
 
 ## Education
 
