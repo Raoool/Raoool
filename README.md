@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Passionate about harnessing the power of technology to drive positive change, I am Rahul Kumar Shah, a dedicated Electrical/Image Processing Engineer with a strong background in developing and applying innovative algorithms for generating and processing digital images. With four years of professional experience under my belt, I am committed to contributing my technical expertise to cutting-edge projects in the realm of image processing.
 
 ## Education
@@ -19,8 +18,8 @@ My academic journey has led me to pursue a Master's degree in Electrical Enginee
 
 - 📊 **Reporting and Communication:** Proficient in Microsoft Office Suite and LaTeX, I am skilled in presenting technical information in a clear and concise manner.
 
+- ⚡ **Fun fact**: Love to play Badminton and Tennis. Reading Novel - Curently reading Thinking Fast and Slow
+
 I am driven by the belief that image processing technology can shape a better future, and I am eager to collaborate with like-minded professionals and organizations to bring about meaningful change. Let's connect and explore how my skills and passion can contribute to transformative projects.
 
 Feel free to reach out for collaborations and discussions.
-
--->
