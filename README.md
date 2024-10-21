@@ -4,7 +4,7 @@ I am Rahul Shah, a dedicated Research Scientist with a strong background in deve
 
 ## Education
 
-My academic journey has led me to pursue a Master's degree in Electrical Engineering at South Dakota State University (SDSU) with an anticipated graduation date in December 2023. My academic focus encompasses a diverse range of fields, including *Image Processing, Remote Sensing, Geospatial Analysis, GIS (Geographic Information Systems), Medical Imaging, Phenology, and Data Analysis*. Through my time at SDSU, I have engaged in rigorous coursework and valuable hands-on experiences, which have allowed me to develop a comprehensive skill set in advanced image processing, remote sensing engineering, optical sensors, and digital image processing.
+My academic journey has led me to pursue a Master's degree in Electrical Engineering at South Dakota State University (SDSU). My academic focus encompasses a diverse range of fields, including *Satellite Image Processing, Remote Sensing, Geospatial Analysis, GIS (Geographic Information Systems), Medical Imaging, Phenology, and Data Analysis*. Through my time at SDSU, I have engaged in rigorous coursework and valuable hands-on experiences, which have allowed me to develop a comprehensive skill set in advanced image processing, remote sensing engineering, optical sensors, and digital image processing.
 
 ## Skills
 
